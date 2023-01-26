@@ -2,6 +2,6 @@ Here are a few lines.
 Line two.
 Line three.
 
-This is a long line with no hard breaks. i hope to pass this class and am trying really hard to troubleshoot/teach myself.
+This is the long line with no hard breaks. i hope to pass this class and am trying really hard to troubleshoot/teach myself.
 
-This is a short line.
+This is the short line.
